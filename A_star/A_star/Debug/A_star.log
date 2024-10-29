@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Year 4\Semester2\Robotics\A_star\main.cpp(27,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  A_star.vcxproj -> F:\Year 4\Semester2\Robotics\A_star\Debug\A_star.exe
